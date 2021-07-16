@@ -66,6 +66,9 @@ This is a web application where you can generate you own QR codes and Scan any c
 ![image](https://user-images.githubusercontent.com/43011442/125977711-e9b84fd6-35c8-47e7-b03e-e908a3351512.png)
 
 
+## Scan through uploading Picture
+
+
 
 <br><br>
 **For more queries, reach me through gowthamraj692@gmail.com or whatsapp @ 9698382306**
