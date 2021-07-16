@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>QR Generator</title>
+	<link rel="icon" type="image/x-icon" href="img/generate.png"/>
+	<link rel="stylesheet" href="css/generatorStyling.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+		<div id="header">
+			<div style="position: relative; top: 30px; left: 0px;">
+				<button style="font-weight: bolder;" class="selector btn1" onclick="window.location='scanner.html'"><i class="fa fa-binoculars"></i>&nbsp; Scan QR</button>
+				<p id="mp1">
+					QR Code Generator
+				</p>
+			</div>
+			<div id="main">
+			    <div class="box1">
+				    <div id="inputs">
+					    <input type="text" class="form-control" placeholder="enter your text here ..." id="data"/>
+					    <div style="color: darkred; font-size: small; font-weight: 600; margin-left: 190px;" id="msg">Hit enter (or) touch somewhere in the box to generate QR Code</div>
+				    </div>
+				    <div id="outputbox">
+					    <img src="img/qrcode.png"/>
+				    </div>
+			    </div>
+		    </div>
+		</div>
+    <script src="https://cdn.rawgit.com/davidshimjs/qrcodejs/gh-pages/qrcode.min.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
