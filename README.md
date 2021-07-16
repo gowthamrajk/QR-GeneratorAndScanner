@@ -15,3 +15,5 @@ This is a web application where you can generate you own QR codes and Scan any c
 # TECHNOLOGIES USED 📌
 
 ## Front End 📫
+
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
