@@ -58,3 +58,5 @@ This is a web application where you can generate you own QR codes and Scan any c
 
 
 ### Connect with me 👋:
+
+[<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
