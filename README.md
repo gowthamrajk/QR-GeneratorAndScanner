@@ -1,6 +1,6 @@
 # QR-GeneratorAndScanner ❤️ 
 
-![](https://img.shields.io/github/languages/count/gowthamrajk/QR-GeneratorAndScanner)   ![](https://img.shields.io/github/languages/top/gowthamrajk/BloodBankManagement)
+![](https://img.shields.io/github/languages/count/gowthamrajk/QR-GeneratorAndScanner)   ![](https://img.shields.io/github/languages/top/gowthamrajk/QR-GeneratorAndScanner)
 
 This is a web application where you can generate you own QR codes and Scan any codes with text and hyperlink for the decrypted content.
 
