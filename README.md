@@ -68,6 +68,7 @@ This is a web application where you can generate you own QR codes and Scan any c
 
 ## Scan through uploading Picture
 
+![image](https://user-images.githubusercontent.com/43011442/125977949-42c57b85-9e04-49d5-bb01-12cbeeae994b.png)
 
 
 <br><br>
