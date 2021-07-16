@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>QR Scanner</title>
+	<link rel="icon" type="image/x-icon" href="img/scan.png"/>
+	<script type="text/javascript" src="https://webqr.com/llqrcode.js"></script>
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<script type="text/javascript" src="https://webqr.com/webqr.js"></script>
+	<link rel="stylesheet" href="css/scannerStyling.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+</head>
+<body>
+	<div id="main">
+		<div id="header">
+			<div style="position: relative; top: 30px; left: 0px;">
+				<button style="font-weight: bolder;" class="selector btn1" onclick="window.location='qrgenerator.html'"><i class="fa fa-qrcode"></i>&nbsp; Generate QR</button>
+				<p id="mp1">
+					QR Code Scanner
+				</p>
+			</div>
+			<div id="mainbody">
+				<table class="tsel" border="0" width="100%">
+					<tr>
+						<td valign="top" align="center" width="50%">
+							<table class="tsel" border="0">
+								<tr>
+									<td>
+										<button style="margin-left: 15%; font-weight: bolder; font-size: 14px;" class="selector btn" id="webcamimg" onclick="setwebcam()" align="left"><i class="fa fa-binoculars"></i> Scan QR</button>
+									</td>
+									<td>
+										<button style="margin-left: 15%; font-weight: bolder; font-size: 14px;" class="selector btn" id="qrimg" onclick="setimg()" align="right"><i class="fa fa-upload"></i> Upload QR</button>
+									</td>
+								</tr>
+								<tr>
+								    <td colspan="2" width="300" align="center">
+										<div id="outdiv"></div>
+									</td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td colspan="3" align="center">
+								<div id="result"></div>
+						</td>
+					</tr>
+				</table>
+			</div>&nbsp;
+		</div>
+	</div>
+	<canvas id="qr-canvas" align="center" width="400" height="600"></canvas>
+	<script src="js/scanner.js"></script>
+</body>
+</html>
