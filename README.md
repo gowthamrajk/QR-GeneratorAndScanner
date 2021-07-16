@@ -1,4 +1,4 @@
-# QR-Generator_and_Scanner
+# QR-GeneratorAndScanner ❤️ 
 
 This is a web application where you can generate you own QR codes and Scan any codes with text and hyperlink for the decrypted content.
 
