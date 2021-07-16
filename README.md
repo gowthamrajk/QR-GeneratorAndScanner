@@ -51,3 +51,5 @@ This is a web application where you can generate you own QR codes and Scan any c
 <br>
 
 ## Project Developed & Maintained By 
+
+# ![](https://img.shields.io/static/v1?style=for-the-badge&message=Gowthamraj+K&color=007396&label=) 😄
