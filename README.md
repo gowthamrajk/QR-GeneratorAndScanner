@@ -24,4 +24,6 @@ This is a web application where you can generate you own QR codes and Scan any c
 ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=339AF0&logo=Font+Awesome&logoColor=FFFFFF&label=)
 ![Google Fonts](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Fonts&color=4285F4&logo=Google+Fonts&logoColor=FFFFFF&label=)
 
-## QR Code Generation ⚡
+## QR Code Generation Libraries⚡
+
+![](https://img.shields.io/static/v1?style=for-the-badge&message=QRcode.js&color=DD0031&logoColor=FFFFFF&label=)
