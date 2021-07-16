@@ -13,3 +13,5 @@ This is a web application where you can generate you own QR codes and Scan any c
 
 
 # TECHNOLOGIES USED 📌
+
+## Front End 📫
