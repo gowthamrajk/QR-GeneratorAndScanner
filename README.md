@@ -74,6 +74,10 @@ This is a web application where you can generate you own QR codes and Scan any c
 ![image](https://user-images.githubusercontent.com/43011442/125978104-6def154e-cfd6-46cc-90d1-7ed8d0338066.png)
 ![image](https://user-images.githubusercontent.com/43011442/125978016-5b441021-fa4a-4bc8-bc40-ad736da19ca4.png)
 
+![image](https://user-images.githubusercontent.com/43011442/125978215-1f093e02-57ee-41de-923e-a1d8b81616a7.png)
+![image](https://user-images.githubusercontent.com/43011442/125978257-62a4ec86-98a1-433b-aeca-aa2dce1b968f.png)
+
+
 
 <br><br>
 **For more queries, reach me through gowthamraj692@gmail.com or whatsapp @ 9698382306**
