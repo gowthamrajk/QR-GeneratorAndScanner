@@ -69,3 +69,5 @@ This is a web application where you can generate you own QR codes and Scan any c
 
 
 ## Copyright-and-license 📌
+
+Code and documentation Copyright 2021 : **Gowthamraj K**
