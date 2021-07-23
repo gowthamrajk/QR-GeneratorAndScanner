@@ -4,7 +4,7 @@
 
 This is a web application where you can generate you own QR codes and Scan any codes with text and hyperlink for the decrypted content.
 
-🔭 Features :
+## 🔭 Features :
 
 1) Generate own QR codes ⛓️
 2) scan any type of QR codes and decrypt them 📲
