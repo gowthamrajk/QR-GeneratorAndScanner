@@ -100,7 +100,7 @@ This is a web application where you can generate you own QR codes and Scan any c
 
 ### Connect with me 👋:
 
-[<img align="left" alt="code-Jamm.in" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
+[<img align="left" alt="Gowthamraj" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website1]
 [<img align="left" alt="GowthamRaj | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="GowthamRaj " width="22px" src="https://www.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />][hackerrank]
 [<img align="left" alt="GowthamRaj  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -114,7 +114,7 @@ This is a web application where you can generate you own QR codes and Scan any c
 
 Code and documentation Copyright 2021 : **Gowthamraj K**
 
-[website1]: https://sites.google.com/view/code-jamm
+[website1]: https://gowthamrajk.github.io
 [hackerrank]: https://www.hackerrank.com/gowthamraj692
 [website]: https://github.com/gowthamrajk
 [twitter]: https://twitter.com/Gowtham29341737
